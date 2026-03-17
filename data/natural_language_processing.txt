@@ -1,0 +1,3 @@
+Natural Language Processing (NLP) enables computers to understand and process human language.
+Applications include chatbots, translation systems, sentiment analysis, and text summarization.
+Modern NLP models use transformer architectures.

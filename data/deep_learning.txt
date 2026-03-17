@@ -1,0 +1,3 @@
+Deep Learning is a subset of machine learning based on artificial neural networks with multiple layers.
+It is widely used in computer vision, speech recognition, and natural language processing.
+Popular frameworks include TensorFlow and PyTorch.

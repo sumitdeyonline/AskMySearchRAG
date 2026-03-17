@@ -1,0 +1,3 @@
+Machine Learning (ML) is a subset of Artificial Intelligence that allows systems to learn from data.
+ML algorithms identify patterns in data and improve performance over time without being explicitly programmed.
+Common algorithms include linear regression, decision trees, and neural networks.
